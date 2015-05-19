@@ -1,0 +1,2 @@
+This is a DFS project aimed to provide high scalability and reliability. We will implement the whole system based on Erlang, which is a strong and felxible function programming language. The first goal of our system is similar with Google File System and Hadoop HDFS. And then we will do more projects based on this DFS platform.
+The name "carrier" comes from ....... , you guess!
